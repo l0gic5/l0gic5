@@ -1,4 +1,4 @@
-- 👋 Hi I'm @And3e
+- 👋 Hi I'm @l0gic5
 - 👀 I am a computer science student
 - 📫 Contacts:
   - Email: andre.marguerettaz@gmail.com
